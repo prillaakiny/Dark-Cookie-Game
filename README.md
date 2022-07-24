@@ -4,7 +4,7 @@ Link to site: https://prillaakiny.github.io/Dark-Cookie-Game/
 
 Play the Dark Cookie Game
 
-<iframe src="https://scratch.mit.edu/projects/704537556/embed" allowtransparency="true" width="1024" height="700" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/704537556/embed" allowtransparency="true" width="1024" height="670" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
 Evaluate the Dark Cookie Game
