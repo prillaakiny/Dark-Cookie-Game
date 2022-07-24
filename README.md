@@ -1,11 +1,11 @@
 # Dark Cookie Game
 
-Welcome to Dark Cookie Game! 
+Welcome to the Dark Cookie Game! 
 
 Do you know the annoying banners you receive when you want to access websites? Well, those banners seek your permission to track all your activities online and often sell your personal information. It is possible to reject these cookies, but most times people don't know how. 
 
 This game teaches you how to respond to various types of real-life cookie banners. The goal is to REJECT all cookies!
-Please play the game and complete the survey below to help us evaluate it. Thank you. Press the green flag to start!
+Please play the game and complete the survey below to help us evaluate it. Thank you for your participation. Press the green flag to start!
 
 
 Play the Dark Cookie Game:
@@ -19,9 +19,9 @@ Evaluate the Dark Cookie Game:
 
 Thank you for all your help!
 
-Thesis Project on Dark Patterns in Cookie Banners
-By: Priscilla Akinyemi
-Supervised: Dr Arianna Rossi
+Thesis Project on Dark Patterns in Cookie Banners /n
+By: Priscilla Akinyemi /n
+Supervised: Dr Arianna Rossi /n
 Music by Electronic-Senses from Pixabay
 
 Link to site: https://prillaakiny.github.io/Dark-Cookie-Game/
