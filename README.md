@@ -1,4 +1,4 @@
-# Dark-Cookie-Game
+# Dark Cookie Game
 
 Link to site: https://prillaakiny.github.io/Dark-Cookie-Game/
 
