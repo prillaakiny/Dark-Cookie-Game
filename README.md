@@ -31,7 +31,7 @@ Thank you for all your help!
 
 Thesis Project on Dark Patterns in Cookie Banners 
 By: Priscilla Akinyemi 
-Supervised: Dr Arianna Rossi 
+Supervised: Prof. Gabriele Lenzini and Dr Arianna Rossi 
 Music by Electronic-Senses from Pixabay
 
 Link to site: https://prillaakiny.github.io/Dark-Cookie-Game/
