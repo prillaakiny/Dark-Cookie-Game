@@ -21,7 +21,7 @@ Evaluate the Dark Cookie Game:
     id="surveylegend-survey"
     src="https://www.surveylegend.com/survey/#/d29yZHByZXNzMjEwMTQz~-N7omxoAF9sQIsn7mPEb"
     width="1024"
-    height="100%"
+    height="1000px"
     style="frameborder: 0; border: 0; margin: 0 auto;"
 >
 </iframe>
