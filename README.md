@@ -1,4 +1,4 @@
-# Dark Cookie Game
+# About Dark Cookie Game
 
 Welcome to the Dark Cookie Game! 
 
@@ -10,12 +10,12 @@ Press the green flag to start!
 
 <p><b>The goal is to REJECT all cookies!</b></p>
 
-Play the Dark Cookie Game:
+# Play the Dark Cookie Game:
 
 <iframe src="https://scratch.mit.edu/projects/704537556/embed" allowtransparency="true" width="1024" height="670" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
-Evaluate the Dark Cookie Game:
+# Evaluate the Dark Cookie Game:
 
 <iframe
     id="surveylegend-survey"
@@ -27,7 +27,7 @@ Evaluate the Dark Cookie Game:
 >
 </iframe>
 
-Thank you for all your help!
+# Thank you for all your help!
 
 Thesis Project on Dark Patterns in Cookie Banners 
 By: Priscilla Akinyemi 
