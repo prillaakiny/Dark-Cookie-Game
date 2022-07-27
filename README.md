@@ -19,10 +19,9 @@ Press the green flag to start!
 
 <iframe
     id="surveylegend-survey"
-    src="https://www.surveylegend.com/survey/#/d29yZHByZXNzMjEwMTQz~-N7omxoAF9sQIsn7mPEb"
+    src="https://www.surveylegend.com/survey/#/d29yZHByZXNzMjEwMTQz~-N7yxbu0FWWA2l0kcuGk"
     width="1024"
     height="1000px"
-    scrolling="no" allowfullscreen
     style="frameborder: 0; border: 0; margin: 0 auto;"
 >
 </iframe>
